@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Jitpack Compose UI**
 
-- 👨‍💻 All of my projects are available at [https://socialtool.co.in](https://socialtool.co.in)
+- 👨‍💻 All of my projects are available at [https://ratulverse.in](https://ratulverse.in)
 
 - 💬 Ask me about **Node,Android,React**
 
-- 📫 How to reach me **duttajyotirmoy73@gmail.com**
+- 📫 How to reach me **me@ratulverse.in**
 
 - ⚡ Fun fact **Devin AI is fake 🤣**
 
