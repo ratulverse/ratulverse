@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/origin/6b/6bfa4a2025cbb19a12acd1186fad770f.gif)](https://ratulverse.in/)
+
 # 💫 About Me:
 🔭 I’m currently working on Tally Addons<br>🌱 I’m currently learning Jitpack Compose UI<br>👨‍💻 All of my projects are available at https://ratulverse.in/<br>💬 Ask me about Node,Android,React<br>📫 How to reach me me@ratulverse.in<br>⚡ Fun fact Devin AI is fake🤣
 
